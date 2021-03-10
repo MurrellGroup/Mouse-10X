@@ -8,5 +8,6 @@ Fig 1. Showing embedded genetic relationships between monoclonal antibodies.
 Fig 2. Showing that a selection of these exhibit a range of binding affinities.
 <img width="600" alt="UMAP" src="https://user-images.githubusercontent.com/1152087/110682813-aa4e2100-81db-11eb-93b5-c688d3df6e07.png">
 Fig 2. Showing that a subset of these are non-neutralizing, but that some are potent neutralizers.  
-
-Please reach out (benjamin.murrell@ki.se) if you have an interest in using this dataset, or in any of the mouse monoclonal antibodies.
+<br />
+<br />
+Please reach out (benjamin.murrell@ki.se) if you have an interest in using this dataset, or in any of these mouse monoclonal antibodies.
